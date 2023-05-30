@@ -13,7 +13,7 @@ function imageMode(color) {
   image3.src = `img/undraw_healthy_habit_${color}.svg`;
 }
 
- // CLEANED UP CODE. (FOR RESUME PURPOSES) MADE A NEW FUNCTION. 
+ // CLEANED UP/ SIMPLIFIED CODE. (FOR RESUME PURPOSES) MADE A NEW FUNCTION THAT INTEGRATES BOTH LIGHT AND DARK MODE. 
 
 /* function toggleDarkLightMode(isLight){
   nav.style.backgroundColor = isLight ? 'rgb(255 255 255 / 50%)' : 'rgb(0 0 0 / 50%)';
